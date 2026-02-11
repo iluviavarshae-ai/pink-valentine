@@ -5,7 +5,10 @@ body {
 }
 /*PAGE WRAPPER */
 .page {
-    padding-top: 40px;
+  max-width: 430px;
+  margin: 30px auto;
+  padding: 20px;
+  border-radius: 25px;
 }
 
 /*HEADER */
@@ -249,3 +252,4 @@ body {
   letter-spacing: 2px;
   color: rgba(175, 59, 77, 0.4);
 }
+
